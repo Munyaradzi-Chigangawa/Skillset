@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "964439926591",
+    "firebase_url": "https://skillset-9ce5a.firebaseio.com",
+    "project_id": "skillset-9ce5a",
+    "storage_bucket": "skillset-9ce5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964439926591:android:8a925cad25bcd2694f558a",
+        "android_client_info": {
+          "package_name": "com.example.skillset"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964439926591-gkb1mej2dppr65soqeq7bag9v2fdnsl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJafITJvtCLNUJ4xnLC0qPOJKswBHYJek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964439926591-gkb1mej2dppr65soqeq7bag9v2fdnsl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
